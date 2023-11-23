@@ -228,4 +228,5 @@ while running:
 	draw_shield_bar(screen, 5, 5, player.shield)
 
 	pygame.display.flip()
+	print("cambio 1")
 pygame.quit()
